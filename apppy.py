@@ -36,3 +36,24 @@ palabra2 = "Microcontroladores"
 similitud = similitud(palabra1, palabra2)
 redondeado_similitud = round(similitud, 4)
 print(f"Porcentaje de similitud: {redondeado_similitud}%")
+
+
+
+
+
+
+# OPERACION XOR
+
+"""
+    A           B            A XOR B
+    0           0               0
+    0           1               1
+    1           0               1
+    1           1               0
+"""
+
+
+
+
+
+
